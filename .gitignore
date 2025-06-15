@@ -1,0 +1,12 @@
+r_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.DS_Store
+.env
+.vscode/
+outputs/
+hf_cache/
+*.log

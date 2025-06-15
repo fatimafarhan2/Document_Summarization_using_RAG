@@ -1,0 +1,25 @@
+# for docs
+PyPDF2
+markdown
+
+
+langchain
+langchain-community
+nltk
+typing
+
+# this sis for embeddings
+sentence-transformers
+
+# this is fro vector store
+faiss-cpu
+
+# this is for llm (summarixation)
+openai
+transformers
+torch
+
+
+scikit-learn
+numpy
+tqdm
