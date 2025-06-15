@@ -15,11 +15,10 @@ sentence-transformers
 faiss-cpu
 
 # this is for llm (summarixation)
-openai
 transformers
 torch
 
 
-scikit-learn
+
 numpy
 tqdm

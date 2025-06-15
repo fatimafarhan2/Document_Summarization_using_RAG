@@ -36,8 +36,8 @@ def process_file(path: str, label: str):
 
 def main():
     test_files = {
-        # "sample_pdf": "data/sample2.pdf",  
-        "sample_txt": "data/sample2.txt",  
+        "sample_pdf": "data/sample2.pdf",  
+        # "sample_txt": "data/sample2.txt",  
         # "sample_md":  "data/sample1.md"
     }
 
